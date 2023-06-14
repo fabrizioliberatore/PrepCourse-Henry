@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-repositorio prueba modulo 2
+repositorio prueba modulo dos
